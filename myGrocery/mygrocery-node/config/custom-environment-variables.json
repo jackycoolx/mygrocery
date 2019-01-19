@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "mygrocery_jwtPrivateKey",
+  "db": "mygrocery_db"
+}
